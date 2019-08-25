@@ -1,1 +1,1 @@
-#### My Money Backend
+#### MyMoneyBackend
